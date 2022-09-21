@@ -1,5 +1,5 @@
-# starter-service-models
-Starter template for proto models belonging to a gRPC service
+# {TEMPLATE_SERVICE_NAME} Service Models
+Template generated proto models belonging to the gRPC service {TEMPLATE_SERVICE_NAME} Service
 
 ![](logo/bh_grpc_kotlin.png)
 
